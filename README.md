@@ -14,7 +14,7 @@ I am a Backend C++ developer working at Yandex Go.
 
 1. **work-tool** [[repo](https://github.com/bogomazdmitry/work-tool)][[site](https://bogomazdmitry.github.io/work-tool)]  
    A web app for fast text operations: diff, decode, encode, and format.
-2. **money-counter** [[repo](https://github.com/bogomazdmitry/money-counter)][[bot](t.me/MoneyCounterHelperBot)]  
+2. **money-counter** [[repo](https://github.com/bogomazdmitry/money-counter)][[bot](https://t.me/MoneyCounterHelperBot)]  
    A simple bot for counting money with balances.
 
 ### My Main Archive Projects
