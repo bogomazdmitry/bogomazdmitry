@@ -1,6 +1,6 @@
 ## Hi there, I'm Dmitry Bogomaz 👋
 
-I am a Backend C++ developer working at Yandex Go.
+I am a Backend Golang/C++ developer working at startup.
 
 ### Main Languages
 
@@ -32,3 +32,4 @@ Feel free to contact me for features or help:
 
 - **Email:** bogomaz.dima2013@gmail.com
 - **LinkedIn:** [Dmitry Bogomaz](https://www.linkedin.com/in/bogomazdmitry/)
+- **Telegram:** @bogomazdmitry
