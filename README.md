@@ -19,7 +19,7 @@ I am a Backend Golang/C++ developer working at startup.
 
 ### My Main Archive Projects
 
-1. **note-shared** [[repo](https://github.com/bogomazdmitry/note-shared)]  
+1. **note-shared** [[repo](https://github.com/bogomazdmitry/note-shared)][[site, brazil region](https://note-shared.dayl.work.gd/)]
    A Google Keep clone for storing notes. It was just an educational project for me, so I stopped developing it.
 2. **multi-microsoft-teams** [[repo](https://github.com/bogomazdmitry/multi-microsoft-teams)]  
    A Windows desktop app for opening two or more Microsoft Teams instances separately. I forked the project, added the ability to choose the app for links, and fixed the autostart feature.
